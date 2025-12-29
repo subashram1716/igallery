@@ -70,7 +70,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Uploading 528866076-20495f7b-15c5-47e4-aea6-fba2423b1090.png…]()
+
+<img width="1920" height="1080" alt="528866076-20495f7b-15c5-47e4-aea6-fba2423b1090" src="https://github.com/user-attachments/assets/ede8a987-5739-459e-a247-256263d998f2" />
 
 
 ## RESULT:
